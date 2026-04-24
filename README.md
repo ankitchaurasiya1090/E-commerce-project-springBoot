@@ -189,15 +189,7 @@ Adjust branch, deployment steps, and credentials for your environment.
 - Tests failing on startup:
   - Start MySQL and verify connection credentials first
 
-## Screenshots
 
-![Preview 1](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/02a04d3c-1fc9-418c-b231-639f6525d07e)
-![Preview 2](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/24c4451b-43a6-4c23-a78a-786eab4303b0)
-![Preview 3](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/93c1baeb-326c-450f-867e-a883900a6644)
-
-## Roadmap
-
-See the full roadmap in [roadmap.md](roadmap.md).
 
 Current priorities:
 
@@ -206,25 +198,9 @@ Current priorities:
 - Industry patterns: caching, concurrency control, observability, and scalability.
 - Long-term architecture: event-driven patterns and microservice decomposition guide.
 
-## Demo
-
-demo video: https://youtu.be/c6WWdINWSlI
-
-## ⭐ Support This Project
-
-If this project helped you, please consider giving it a star on GitHub.
-Your support helps improve visibility and motivates future maintenance.
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=jaygajera17%2FE-commerce-project-springBoot&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jaygajera17/E-commerce-project-springBoot&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jaygajera17/E-commerce-project-springBoot&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jaygajera17/E-commerce-project-springBoot&type=date&legend=top-left" />
- </picture>
-</a>
 
 <div align="center">
-  <sub>Built as a college project · Grown into a community resource · Maintained with ❤️</sub>
+  <sub>Built as a college project · Grown into a community resource · Maintained with ❤️
+  
+ Ankit Chaurasiya </sub>
 </div>
