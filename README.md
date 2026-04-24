@@ -186,5 +186,8 @@ Current priorities:
 <div align="center">
   <sub>Built as a college project · Grown into a community resource · Maintained with ❤️
   
+ 
+ 
+ worked in team   
  Ankit Chaurasiya </sub>
 </div>
